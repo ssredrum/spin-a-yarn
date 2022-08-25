@@ -1,0 +1,6 @@
+singular_noun = input("Enter a singular noun:") # user's noun
+color = input("Enter a color:") # user's color
+second_singular_noun = input("Enter a 2nd noun:") # user's 2nd noun
+
+print(singular_noun + " had walked down the road and found " + "a" + " " + color  + " " + second_singular_noun) # print all of it out
+
